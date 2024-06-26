@@ -27,7 +27,7 @@ Run the following commands to get started:
 ``` 
 Then copy the jupyter link into a browser and head over the examples folder to run the notebooks
 
-Important step to investigate Dnn models provided:
+## Important step to investigate Dnn models provided:
 * The link to download several model weights to test them in the example notebooks is already provided. <br />
  You must save them inside ```examples/models/state_dicts/``` folder. [[link]](https://drive.google.com/drive/folders/1HtxlPWGXG6svdHAs197uIirt0yHLo_tC?usp=sharing)
 
