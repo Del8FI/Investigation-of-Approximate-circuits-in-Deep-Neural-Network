@@ -1,7 +1,7 @@
 # Investigation-of-Approximate-circuits-in-Deep-Neural-Network
 This study explores using approximate arithmetic circuits to enhance DNN energy efficiency via layer-specific multiplier approximations in the AdaPT framework. It reduces power consumption while maintaining high accuracy across various DNN models, advancing energy-efficient AI for diverse environments
 
-##Tools Used
+## Tools Used
 **AdaPT** is a fast emulation framework that extends PyTorch to support approximate inference as well as approximation-aware retraining. AdaPT can be seamlessly deployed and is compatible with the most DNNs. You can evaluate the framework on several DNN models and application fields including CNNs, LSTMs, and GANs for a number of approximate multipliers.
 
 **EvoApprox8b**  Library of Approximate 8 bit signed Multipliers.
